@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1111,
+    "title": "Testing prod. N° 01",
+    "description": "Este es un producto de prueba",
+    "price": 2300,
+    "thumbnail": "no img",
+    "code": "AAA123",
+    "stock": 41,
+    "category": "nueva categoria"
+  },
+  {
+    "id": 1112,
+    "title": "Testing prod. N° 02",
+    "description": "Este es un producto de prueba",
+    "price": 2500,
+    "thumbnail": "no img",
+    "code": "AAA124",
+    "stock": 12
+  },
+  {
+    "id": 1113,
+    "title": "Testing prod. N° 03",
+    "description": "Este es un producto de prueba",
+    "price": 3000,
+    "thumbnail": "no img",
+    "code": "AAA125",
+    "stock": 21
+  },
+  {
+    "id": 1114,
+    "title": "Testing prod. N° 04",
+    "description": "Este es un producto de prueba",
+    "price": 3200,
+    "thumbnail": "no img",
+    "code": "AAA126",
+    "stock": 15
+  },
+  {
+    "id": 1115,
+    "title": "Testing prod. N° 05",
+    "description": "Este es un producto de prueba",
+    "price": 1200,
+    "thumbnail": "no img",
+    "code": "AAA127",
+    "stock": 18
+  },
+  {
+    "id": 1116,
+    "title": "Testing prod. N° 06",
+    "description": "Este es un producto de prueba",
+    "price": 1700,
+    "thumbnail": "no img",
+    "code": "AAA128",
+    "stock": 23
+  },
+  {
+    "id": 1117,
+    "title": "Testing prod. N° 07",
+    "description": "Este es un producto de prueba",
+    "price": 1600,
+    "thumbnail": "no img",
+    "code": "AAA129",
+    "stock": 10
+  },
+  {
+    "id": 1118,
+    "title": "Testing prod. N° 08",
+    "description": "Este es un producto de prueba",
+    "price": 3200,
+    "thumbnail": "no img",
+    "code": "AAA130",
+    "stock": 14
+  },
+  {
+    "id": 1119,
+    "title": "Testing prod. N° 09",
+    "description": "Este es un producto de prueba",
+    "price": 1790,
+    "thumbnail": "no img",
+    "code": "AAA131",
+    "stock": 28
+  },
+  {
+    "id": 1120,
+    "title": "Testing prod. N° 10",
+    "description": "Este es un producto de prueba",
+    "price": 2300,
+    "thumbnail": "no img",
+    "code": "AAA132",
+    "stock": 11
+  },
+  {
+    "id": 11,
+    "title": "Testing prod. N° 11",
+    "description": "Este es un producto de prueba",
+    "price": 1100,
+    "thumbnail": "",
+    "code": "AAA133",
+    "stock": 11
+  }
+]
